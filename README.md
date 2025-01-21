@@ -22,7 +22,7 @@ Antes de rodar a aplicação, é necessário garantir que você tenha os seguint
 - 
 ## Dependências do Projeto
 
-#Este projeto utiliza as seguintes dependências essenciais:
+Este projeto utiliza as seguintes dependências essenciais:
 
 1. **Spring Boot Starter Web**  
    - Necessária para criar aplicações web, incluindo APIs RESTful.
